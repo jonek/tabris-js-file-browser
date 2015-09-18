@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.eclipsesource.tabris.file" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>TabrisFileExample</name>
+    <description>
+        A Tabris.js example to demonstrate how to use the cordova-file plugin in Tabris.js.
+    </description>
+    <author email="tabris@eclipsesource.com" href="http://tabrisjs.com">
+        Tabris.js Team
+    </author>
+    <preference name="EnableDeveloperConsole" value="true" />
+    <plugin name="cordova-plugin-file" spec="^3.0.0" />
+</widget>
