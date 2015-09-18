@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.eclipsesource.tabris.file" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>TabrisFileExample</name>
+<widget id="com.eclipsesource.tabris.file.browser" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>TabrisFileBrowser</name>
     <description>
-        A Tabris.js example to demonstrate how to use the cordova-file plugin in Tabris.js.
+        A super simple file browser created with Tabris.js using the Cordova file plugin.
     </description>
     <author email="tabris@eclipsesource.com" href="http://tabrisjs.com">
         Tabris.js Team
