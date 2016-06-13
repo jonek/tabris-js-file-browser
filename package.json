@@ -1,7 +1,7 @@
 {
   "title": "Tabris.js File Browser",
   "description": "Super simple file browser using the Cordova file plugin with Tabris.js.",
-  "main": "app.js",
+  "main": "src/app.js",
   "dependencies": {
     "tabris": "^1.0.0"
   }
