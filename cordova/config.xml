@@ -8,5 +8,5 @@
         Tabris.js Team
     </author>
     <preference name="EnableDeveloperConsole" value="true" />
-    <plugin name="cordova-plugin-file" spec="^3.0.0" />
+    <plugin name="cordova-plugin-file" />
 </widget>
